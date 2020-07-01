@@ -23,4 +23,4 @@ jobs:
     - uses: actions/checkout@v2
 
     # Runs a single command using the runners shell
-    - name: place-labs/orthograph-err@v1
+    - uses: place-labs/orthograph-err@v1
