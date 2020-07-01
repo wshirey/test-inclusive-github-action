@@ -15,5 +15,3 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - uses: place-labs/orthograph-err@master
-        with:
-          path: './README.md'
